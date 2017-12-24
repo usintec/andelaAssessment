@@ -1,0 +1,6 @@
+docker pull usintec/node
+1.0: digest: sha256:51572028c044e71b83942ee302d5ed08116733909aae765fd1a776b927455607 size: 2838
+docker pull usintec/mongodb
+1.0: digest: sha256:73bafbd20105f784d09b24bd434a735c5b67c2064dc864d14bfead3d00515f48 size: 2193
+
+

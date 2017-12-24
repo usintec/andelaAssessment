@@ -1,0 +1,7 @@
+This script requires that you install docker for python on your linux system
+I am sorry to inform your that the script is not yet completed to automate 
+the process of setting up my monogodb database container and my node application
+container. This because i am getting:
+"404 Client Error: Not Found for url: http+docker://localunixsocket/v1.30/images/usintec/mongodb/json"
+while trying to pull the image from my script. i cant investigate further because of the deadline.
+I am really sorry. I only want you to see that i spent whole of time with the assessment. Thanks
